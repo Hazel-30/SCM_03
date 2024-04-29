@@ -64,4 +64,4 @@ Organize your daily tasks with our simple and intuitive To-Do List application. 
 
 Our To-Do List simplifies task management so you can focus on what truly matters. Experience productivity like never before!
 
-Take charge of your tasks today with our To-Do List application. Let's make every day more organized and efficient!
+Take charge of your tasks today with our To-Do List application. Let's make every day more organized and efficient.
