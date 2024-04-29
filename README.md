@@ -21,7 +21,7 @@
   - GitHub: https://github.com/Ishaa2005
 
 ## Deadline
-- Project Deadline: 10th May
+- Project Deadline: 10-05-2024
 
 ## Project Timeline
 
