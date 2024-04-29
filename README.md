@@ -13,12 +13,12 @@
 - **Member 2**
   - Name: Himank Goel
   - Roll No. : 2310992097
-  - GitHub: [https://github.com/himank2097]
+  - GitHub: https://github.com/himank2097
 
 - **Member 3**
   - Name: Isha
   - Roll No. : 2310992099
-  - GitHub: [Tester's GitHub Profile URL]
+  - GitHub: https://github.com/Ishaa2005
 
 ## Deadline
 - Project Deadline: [Insert Deadline Date]
