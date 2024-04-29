@@ -1,23 +1,23 @@
 # 📝 To-Do List: Organize Your Tasks 📝
 
 ## Project Information
-- **Primary Owner:** [Your Name]
-- **Secondary Owner:** [Co-owner's Name]
+- **Primary Owner:** Himank Goel
+- **Secondary Owner:** Hazel
 
 ## Team Members
 - **Member 1**
-  - Name: [Your Name]
-  - Role: Developer
+  - Name: Hazel
+  - Roll No. : 2310992096
   - GitHub: [Your GitHub Profile URL]
 
 - **Member 2**
-  - Name: [Co-owner's Name]
-  - Role: Developer
+  - Name: Himank Goel
+  - Roll No. : 2310992097
   - GitHub: [Co-owner's GitHub Profile URL]
 
 - **Member 3**
-  - Name: [Tester's Name]
-  - Role: Tester
+  - Name: Isha
+  - Roll No. : 2310992099
   - GitHub: [Tester's GitHub Profile URL]
 
 ## Deadline
