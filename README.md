@@ -8,14 +8,20 @@
 
 ## Features
 ✅ Add tasks
+
 ✅ Mark tasks as completed
+
 ✅ Delete tasks
+
 ✅ Responsive design
+
 ✅ Easy to use
 
 ## Technologies Used
 🌐 HTML - Structure of the web page
+
 🎨 CSS - Styling the elements
+
 💻 JavaScript - Adding interactivity to the application
 
 ## How to Use
