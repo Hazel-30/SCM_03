@@ -13,7 +13,7 @@
 - **Member 2**
   - Name: Himank Goel
   - Roll No. : 2310992097
-  - GitHub: [Co-owner's GitHub Profile URL]
+  - GitHub: [https://github.com/himank2097]
 
 - **Member 3**
   - Name: Isha
