@@ -25,26 +25,26 @@
 
 ## Project Timeline
 
-### [Start Date] - Milestone 1
+### [26-4-2024] - Milestone 1
 
 - [ ] Set up project repository
 - [ ] Define project scope
 - [ ] Initial design sketches
 - [ ] Release version 1.0
 
-### [Next Date] - Milestone 2
+### [29-4-2024] - Milestone 2
 
 - [ ] Complete frontend development
 - [ ] Implement backend functionalities
 - [ ] Begin testing phase
 
-### [Next Date] - Milestone 3
+### [3-5-2024] - Milestone 3
 
 - [ ] Finish testing
 - [ ] Finalize documentation
 - [ ] Prepare for project submission
 
-### [Project Deadline Date] - Completion
+### [10-5-2024] - Completion
 
 - [ ] Complete final checks
 - [ ] Release version 2.0
