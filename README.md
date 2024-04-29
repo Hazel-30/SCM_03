@@ -8,7 +8,7 @@
 - **Member 1**
   - Name: Hazel
   - Roll No. : 2310992096
-  - GitHub: [Your GitHub Profile URL]
+  - GitHub: https://github.com/Hazel-30
 
 - **Member 2**
   - Name: Himank Goel
