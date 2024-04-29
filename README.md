@@ -21,7 +21,7 @@
   - GitHub: https://github.com/Ishaa2005
 
 ## Deadline
-- Project Deadline: [Insert Deadline Date]
+- Project Deadline: 10th May
 
 ## Project Timeline
 
