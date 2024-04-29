@@ -1,6 +1,10 @@
 # 📝 To-Do List 📝
 
-A simple web-based To-Do List application to keep track of your tasks.
+## Team Members
+- Hazel (Roll Number: 2310992096)
+- Himank Goel (Roll Number: 2310992097)
+- Isha (Roll Number: 2310992099)
+
 
 ## Features
 ✅ Add tasks
