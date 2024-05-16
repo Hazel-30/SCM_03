@@ -6,7 +6,7 @@
 
 ## Team Members👥
 
-- **Member 1**👤
+- **Member 1
   - Name: Hazel
   - Roll No. : 2310992096
   - GitHub: https://github.com/Hazel-30
